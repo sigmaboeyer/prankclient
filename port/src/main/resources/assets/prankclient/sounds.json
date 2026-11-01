@@ -1,0 +1,9 @@
+{
+  "crit":   { "sounds": ["prankclient:crit"] },
+  "hit":    { "sounds": ["prankclient:hit"] },
+  "impact": { "sounds": ["prankclient:impact"] },
+  "drip":   { "sounds": ["prankclient:drip"] },
+  "on":     { "sounds": ["prankclient:on"] },
+  "off":    { "sounds": ["prankclient:off"] },
+  "kill":   { "sounds": ["prankclient:kill"] }
+}
